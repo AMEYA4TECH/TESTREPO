@@ -13,7 +13,7 @@ public class HelloController{
    public String printHello(ModelMap model) {
       model.addAttribute("message", "Hello Spring MVC Framework!");
       System.out.println("In hello");
-      return "hello";
+      return "hello A4 TEAM";
    }
    
 
